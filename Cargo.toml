@@ -1,5 +1,6 @@
 [package]
 name = "digger"
+description = "A trait for extracting data from recursive data structures"
 version = "0.1.0"
 edition = "2018"
 authors = ["Ben Bader"]
