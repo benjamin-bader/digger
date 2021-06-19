@@ -6,6 +6,7 @@ edition = "2018"
 authors = ["Ben Bader"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
+homepage = "https://github.com/benjamin-bader/digger"
 repository = "https://github.com/benjamin-bader/digger"
 
 [dependencies]
