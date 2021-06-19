@@ -1,0 +1,15 @@
+[package]
+name = "digger"
+version = "0.1.0"
+edition = "2018"
+authors = ["Ben Bader"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/benjamin-bader/digger"
+
+[dependencies]
+serde_json = { version = "1.0.64", optional = true }
+
+[package.metadata.docs.rs]
+features = ["serde_json"]
+no-default-features = true
